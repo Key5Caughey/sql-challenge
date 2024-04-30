@@ -1,3 +1,4 @@
 # sql-challenge
 
-#starting a new challenge and just putting some stuff in the readme file he he 
+download csv files upload them to posstgre , create ERD 
+create tables from csv files , create new tables by quering tables 
